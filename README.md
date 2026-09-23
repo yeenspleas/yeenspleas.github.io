@@ -1,2 +1,2 @@
 # yeenspleas.github.io
-# hello, nice to meet you!
+## Thanks for teaching me this class!
